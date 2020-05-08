@@ -1,2 +1,3 @@
 # PluginDevelopment
-Plugins which I have developed for the Reel-it-in Survival Server.
+Plugins developed for the Reel-It-In Survival Server
+
